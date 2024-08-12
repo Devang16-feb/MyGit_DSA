@@ -1,4 +1,4 @@
-# Data Structures: LinkedList, Stack, and Queue
+# Data Structures: LinkedList, Stack, Queue, Searching And Sorting
 
 This repository contains implementations of basic data structures including LinkedList, Stack, and Queue.
 
@@ -40,6 +40,10 @@ A queue is a linear data structure that follows the First In, First Out (FIFO) p
 6. **Count**: Count number of elements in list.
 7. **InsertAtPos**: Insert the element at specific position.
 8. **DeleteAtPos**: Delete the element at specific positon.
+9. **BubbleSort**: Compares All Elements one by one and sort them.
+10. **InsertionSort**: Each element in array cheacked with previus elements.
+11. **SelectionSort**: First find Smallest element in the array and swap element with respective position.
+12. **ShellSort**: It is an n-gap Insertion sort.
 
 
 
